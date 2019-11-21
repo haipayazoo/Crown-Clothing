@@ -16,6 +16,6 @@ The site can be found [here](https://haipa-crwn-clothing.herokuapp.com/). You ca
 
 If you sign out and log back in, or close the site and reopen it, you will still maintain the items in your cart.
 
-The project is still a work-in-progress, with the hosted website showcasing the main functions of the site.
+***The project is still a work-in-progress, with the hosted website showcasing the main functions of the site.***
 
 ![CrwnClothing](images/crwn_clothing.png)
