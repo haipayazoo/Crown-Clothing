@@ -8,11 +8,21 @@
         "extensions": [".js", ".jsx"]
       }
     ],
+    "jsx-a11y/no-static-element-interactions": 0,
+    "jsx-a11y/click-events-have-key-events": 0,
+    "jsx-a11y/label-has-associated-control": 0,
+    "no-console": 0,
     "react/prop-types": 0,
     "no-underscore-dangle": 0,
     "import/imports-first": ["error", "absolute-first"],
     "import/newline-after-import": "error",
     "import/prefer-default-export": 0,
+    "no-alert": 0,
+    "consistent-return": 0,
+    "react/jsx-props-no-spreading": 0,
+    "no-shadow": 0,
+    "react/button-has-type": 0,
+    "no-use-before-define": 0,
     "semi": "error"
   },
   "globals": {
@@ -22,6 +32,7 @@
     "FormData": true,
     "FileReader": true,
     "Blob": true,
+    "alert": true,
     "navigator": true,
     "Headers": true,
     "Request": true,
